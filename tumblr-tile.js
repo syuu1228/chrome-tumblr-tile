@@ -20,7 +20,7 @@ tumblrTile || (function() {
         var config    = configStr ? JSON.parse(configStr) : {};
 
         var defaultConfig = {
-            hostname : "aoi-miyazaki.tumblr.com",
+            hostname : "glenda9.tumblr.com",
             baseWidth: 250,
             margin   : 10
         };
